@@ -6,7 +6,7 @@ import { defineConfig } from 'vite';
 export default defineConfig(() => {
   return {
     // Important for GitHub Pages
-    base: '/aether-dragon-motion/',
+    base: '/aether_dragon_motion/',
 
     plugins: [react(), tailwindcss()],
 
