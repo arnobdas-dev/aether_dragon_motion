@@ -1,0 +1,6 @@
+{
+  "name": "Aether Dragon Motion",
+  "description": "An elegant, modern interactive dragon with fluid inverse kinematics, glowing scales, flapping wings, and particle trails that smoothly follow your mouse cursor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
